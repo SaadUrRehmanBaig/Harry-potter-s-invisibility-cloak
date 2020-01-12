@@ -12,6 +12,6 @@ You can take a unicolor bedsheet and apply color segmentation on it. After that 
 Open Command Prompt (Windows) or Terminal (Linux) and type in the following command:<br />pip install opencv-python<br />
 
 # How to use?
-	1	Run the invisible cloak.ipynb (While Running it, make sure nobody is infront of the webcam)<br />
-	2	An window showing the video will pop up.<br />
-	3	take a red piece of cloth in front of it and the magic will happen.<br />
+	1	Run the invisible cloak.ipynb (While Running it, make sure nobody is infront of the webcam)
+	2	An window showing the video will pop up.
+	3	take a red piece of cloth in front of it and the magic will happen.
