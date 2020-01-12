@@ -1,4 +1,4 @@
-# Harry-potter-s-invisibility-cloak
+# Harry-potters-invisibility-cloak
 This is simply a program that uses color segmentation and a bit of image processing to replace the foreground object of interest with the background.
 You can take a unicolor bedsheet and apply color segmentation on it. After that take a picture of the background and place the bedsheet over yourself to virtually disappear, or make some part of your body disappear.
 
